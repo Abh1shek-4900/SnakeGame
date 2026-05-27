@@ -1,6 +1,6 @@
 pipeline { //pipeline as code - Jenkinsfile
     agent{
-        label "masters"
+        label "snake"
     }
 
     stages { //collection of your jobs
